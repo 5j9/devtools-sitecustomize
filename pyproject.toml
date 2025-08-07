@@ -54,4 +54,4 @@ lint.ignore = [
 ]
 
 [project.entry-points."sitecustomize"]
-setup-devtools-debug = "devtools_sitecustomize.setup:add_debug_to_builtins"
+devtools-sitecustomize = "devtools_sitecustomize:add_debug_to_builtins"

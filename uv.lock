@@ -30,7 +30,7 @@ wheels = [
 
 [[package]]
 name = "devtools-sitecustomize"
-version = "0.1.9.dev1"
+version = "0.1.9"
 source = { editable = "." }
 dependencies = [
     { name = "devtools" },

@@ -1,6 +1,6 @@
 # devtools-sitecustomize
 
-A simple Python package designed to automatically make `devtools.debug` available as a global `debug()` function in your Python interpreter sessions and scripts, by leveraging the `sitecustomize-entrypoints` mechanism. This removes the need for manual `import` statements or custom `PYTHONSTARTUP` configurations.
+A simple Python package designed to automatically make [`devtools.debug`](https://github.com/samuelcolvin/python-devtools?tab=readme-ov-file#usage) available as a global `debug()` function in your Python interpreter sessions and scripts, by leveraging the [`sitecustomize-entrypoints`](https://github.com/Darsstar/sitecustomize-entrypoints) mechanism. This removes the need for manual `import` statements or custom `PYTHONSTARTUP` configurations.
 
 ## ✨ Features
 

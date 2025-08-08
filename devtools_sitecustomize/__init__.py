@@ -1,4 +1,4 @@
-__version__ = '0.1.10.dev1'
+__version__ = '0.1.10'
 import builtins
 import sys
 
